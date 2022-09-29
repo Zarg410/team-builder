@@ -1,7 +1,9 @@
 
 # Personas
+<img width="984" alt="Screen Shot 2022-09-29 at 3 24 28 PM" src="https://user-images.githubusercontent.com/68124971/193152974-7391b95c-df29-4257-8cfd-9a1d8e2ef3d5.png">
 
-![alt text](https://stock.adobe.com/collections/Pnb3vT0akesPgEDqaqSlBRifOFBa3LoJ?asset_id=517883503)
+
+
 **Name: Margarita Ruiz**
 Employee at Hot Topic
 22 year old female in Seattle, Washington
