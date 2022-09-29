@@ -2,8 +2,6 @@
 # Personas
 <img width="700" alt="Screen Shot 2022-09-29 at 3 24 28 PM" src="https://user-images.githubusercontent.com/68124971/193152974-7391b95c-df29-4257-8cfd-9a1d8e2ef3d5.png">
 
-
-
 **Name: Margarita Ruiz**
 Employee at Hot Topic
 22 year old female in Seattle, Washington
@@ -21,6 +19,8 @@ Goals:
 2. Work on assignments with her friends
 3. Work in groups where she doesn’t have to be the leader
 
+
+<img width="695" alt="Screen Shot 2022-09-29 at 3 32 09 PM" src="https://user-images.githubusercontent.com/68124971/193153784-8aff8bc3-0038-425d-8b3a-3ca34386f708.png">
 
 **Name: David J. Mongo**
 42 year old man from Drayton Valley, Alberta, Canada
@@ -40,6 +40,9 @@ classes but also disciplines
 3. Help his students learn how to interact in group and forage strong if not personal, then
 professional relationships
 
+
+<img width="697" alt="Screen Shot 2022-09-29 at 3 33 26 PM" src="https://user-images.githubusercontent.com/68124971/193153976-e3a6c81b-12f4-48e8-8af7-bb3815c027c7.png">
+
 **Name: Ri Macual**
 17 year old girl from Echo Bay, Ontario, Canada/ now living in Drayton Valley
 Education: Currently a High School Junior
@@ -56,6 +59,9 @@ Goals:
 have at least similar interests to herself
 3. In the end Ri just wants to pass
 
+
+<img width="605" alt="Screen Shot 2022-09-29 at 3 33 55 PM" src="https://user-images.githubusercontent.com/68124971/193154010-9068e70d-4aff-4059-88fe-6e89351b8af3.png">
+
 **Name: Chelsea Bell**
 Education: B.A in Education
 Chelsea recently bought a house and enjoys having company over. She has a cat and a
@@ -67,6 +73,8 @@ Goals:
 1. Group compatible students together
 2. Make sure all students are in a group
 
+
+<img width="605" alt="Screen Shot 2022-09-29 at 3 35 32 PM" src="https://user-images.githubusercontent.com/68124971/193154155-d5af3980-08f2-4ec6-8663-520d2f5dbcae.png">
 
 **Name: William Shoe**
 Education: PHD in Physics
