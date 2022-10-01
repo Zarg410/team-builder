@@ -1,14 +1,13 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
-# !!!Project Name!!!
+# Team Builder
 
 !!!Brief introduction to the project and the problem it is intended to solve!!!
+Team Builder is a multi-platform sofware designed to streamline the process of creating teams.
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Nicholas Shaddox](https://usabilityengineering.github.io/ux-portfolio-TheRealKrawll/)** - !!!List of Person B's primary contributions!!!
+* **[Zane Gabor](https://github.com/UsabilityEngineering/ux-portfolio-Zarg410)** - !!!List of Person C's primary contributions!!!
+* **[Fabian Garcia](https://usabilityengineering.github.io/ux-portfolio-fabiang8/)** - !!!List of Person A's primary contributions!!!
 
 # User-Centered Design Artifacts
  
@@ -22,10 +21,6 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
 
 [Full phase I report](phaseI/)
 
@@ -33,10 +28,6 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
 
 [Full phase II report](phaseII/)
 
@@ -44,9 +35,5 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
 
 [Full phase III report](phaseIII/)
