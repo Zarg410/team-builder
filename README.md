@@ -5,15 +5,22 @@ Team Builder is a multi-platform sofware designed to streamline the process of c
 ## UX Team Members
 
 * **[Nicholas Shaddox](https://usabilityengineering.github.io/ux-portfolio-TheRealKrawll/)**
-  * !!!List of Person A's primary contributions!!!
+  * Sketches
+  * Executive Summary
+  * Heuristic Evaluation
+  * Personas & Scenarios + Images
+  * Phase 1 Report
 * **[Zane Gabor](https://usabilityengineering.github.io/ux-portfolio-Zarg410/)**
-  * !!!List of Person B's primary contributions!!!
+  * Executive Summary
+  * Personas & Scenarios
+  * Heuristic Evaluation
 * **[Fabian Garcia](https://usabilityengineering.github.io/ux-portfolio-fabiang8/)**
-  * !!!List of Person C's primary contributions!!!
+  * Personas & Scenarios
+  * Heuristic Evaluation
+  * Images for Personas
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](#) - Coming soon (phase II)!
