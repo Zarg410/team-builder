@@ -1,4 +1,4 @@
 # Sketches
-![Page One](/sketches/images/Sketch1.jpg)
+![Page One](../sketches/images/Sketch1.jpg)
 
-![Page Two](/sketches/images/Sketch2.jpg)
+![Page Two](../sketches/images/Sketch2.jpg)
